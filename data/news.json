@@ -5,7 +5,7 @@
             "is_todays_pick": false,
             "is_trending": true
         },
-        "category_id": "1",
+        "category_id": "01",
         "rating": {
             "number": 4.5,
             "badge": "Excellent"
@@ -27,7 +27,7 @@
             "is_todays_pick": false,
             "is_trending": true
         },
-        "category_id": "3",
+        "category_id": "03",
         "rating": {
             "number": 4.5,
             "badge": "Excellent"
@@ -49,7 +49,7 @@
             "is_todays_pick": false,
             "is_trending": true
         },
-        "category_id": "1",
+        "category_id": "01",
         "rating": {
             "number": 4.8,
             "badge": "Excellent"
@@ -71,7 +71,7 @@
             "is_todays_pick": false,
             "is_trending": true
         },
-        "category_id": "2",
+        "category_id": "02",
         "rating": {
             "number": 4.3,
             "badge": "Excellent"
@@ -93,7 +93,7 @@
             "is_todays_pick": false,
             "is_trending": false
         },
-        "category_id": "3",
+        "category_id": "03",
         "rating": {
             "number": 4.5,
             "badge": "Excellent"
@@ -115,7 +115,7 @@
             "is_todays_pick": false,
             "is_trending": false
         },
-        "category_id": "1",
+        "category_id": "01",
         "rating": {
             "number": 4.5,
             "badge": "Excellent"
@@ -137,7 +137,7 @@
             "is_todays_pick": false,
             "is_trending": true
         },
-        "category_id": "2",
+        "category_id": "02",
         "rating": {
             "number": 4.5,
             "badge": "Excellent"
@@ -159,7 +159,7 @@
             "is_todays_pick": false,
             "is_trending": true
         },
-        "category_id": "3",
+        "category_id": "03",
         "rating": {
             "number": 4.5,
             "badge": "Excellent"
@@ -181,7 +181,7 @@
             "is_todays_pick": true,
             "is_trending": false
         },
-        "category_id": "4",
+        "category_id": "04",
         "rating": {
             "number": 4.5,
             "badge": "Excellent"
@@ -203,7 +203,7 @@
             "is_todays_pick": false,
             "is_trending": false
         },
-        "category_id": "4",
+        "category_id": "04",
         "rating": {
             "number": 4.5,
             "badge": "Excellent"
@@ -225,7 +225,7 @@
             "is_todays_pick": false,
             "is_trending": true
         },
-        "category_id": "5",
+        "category_id": "05",
         "rating": {
             "number": 4.5,
             "badge": "Excellent"
@@ -247,7 +247,7 @@
             "is_todays_pick": false,
             "is_trending": true
         },
-        "category_id": "5",
+        "category_id": "05",
         "rating": {
             "number": 4.5,
             "badge": "Excellent"
@@ -269,7 +269,7 @@
             "is_todays_pick": false,
             "is_trending": true
         },
-        "category_id": "2",
+        "category_id": "02",
         "rating": {
             "number": 4.5,
             "badge": "Excellent"
@@ -291,7 +291,7 @@
             "is_todays_pick": false,
             "is_trending": false
         },
-        "category_id": "7",
+        "category_id": "07",
         "rating": {
             "number": 4.5,
             "badge": "Excellent"
@@ -313,7 +313,7 @@
             "is_todays_pick": false,
             "is_trending": true
         },
-        "category_id": "1",
+        "category_id": "01",
         "rating": {
             "number": 4.5,
             "badge": "Excellent"
@@ -335,7 +335,7 @@
             "is_todays_pick": false,
             "is_trending": true
         },
-        "category_id": "1",
+        "category_id": "01",
         "rating": {
             "number": 4.5,
             "badge": "Excellent"
@@ -357,7 +357,7 @@
             "is_todays_pick": false,
             "is_trending": false
         },
-        "category_id": "2",
+        "category_id": "02",
         "rating": {
             "number": 4.5,
             "badge": "Excellent"
@@ -379,7 +379,7 @@
             "is_todays_pick": false,
             "is_trending": true
         },
-        "category_id": "1",
+        "category_id": "01",
         "rating": {
             "number": 4.5,
             "badge": "Excellent"
@@ -401,7 +401,7 @@
             "is_todays_pick": false,
             "is_trending": true
         },
-        "category_id": "1",
+        "category_id": "01",
         "rating": {
             "number": 4.5,
             "badge": "Excellent"
@@ -423,7 +423,7 @@
             "is_todays_pick": false,
             "is_trending": true
         },
-        "category_id": "3",
+        "category_id": "03",
         "rating": {
             "number": 4.5,
             "badge": "Excellent"
@@ -445,7 +445,7 @@
             "is_todays_pick": false,
             "is_trending": true
         },
-        "category_id": "1",
+        "category_id": "01",
         "rating": {
             "number": 4.5,
             "badge": "Excellent"
@@ -467,7 +467,7 @@
             "is_todays_pick": false,
             "is_trending": true
         },
-        "category_id": "2",
+        "category_id": "02",
         "rating": {
             "number": 4.5,
             "badge": "Excellent"
@@ -489,7 +489,7 @@
             "is_todays_pick": false,
             "is_trending": true
         },
-        "category_id": "3",
+        "category_id": "03",
         "rating": {
             "number": 4.5,
             "badge": "Excellent"
@@ -512,7 +512,7 @@
             "is_todays_pick": false,
             "is_trending": true
         },
-        "category_id": "7",
+        "category_id": "07",
         "rating": {
             "number": 4.2,
             "badge": "Excellent"
@@ -534,7 +534,7 @@
             "is_todays_pick": false,
             "is_trending": true
         },
-        "category_id": "5",
+        "category_id": "05",
         "rating": {
             "number": 4.5,
             "badge": "Excellent"
@@ -556,7 +556,7 @@
             "is_todays_pick": false,
             "is_trending": false
         },
-        "category_id": "4",
+        "category_id": "04",
         "rating": {
             "number": 4.5,
             "badge": "Excellent"
